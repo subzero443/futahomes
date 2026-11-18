@@ -1,0 +1,14 @@
+{
+  "id": "/",
+  "name": "FUTA Homes — Find. Compare. Live Better.",
+  "short_name": "FUTA Homes",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fff9f5",
+  "theme_color": "#ff6b00",
+  "description": "Browse accommodation near FUTA and Akure, contact agents and book viewings.",
+  "icons": [
+    {"src":"/app-icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
